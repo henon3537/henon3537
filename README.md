@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 My name is hen_on
+Webコーダー・デザイナー
 
-<!--
-**henon3537/henon3537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- HTML / CSS(SCSS) / JavaScript
+- WordPress
+- Figma
 
-Here are some ideas to get you started:
+## 💻 Projects
+- 株式会社オレンジコーポレートサイト([リンク](https://orange-toyama.com))
+- 相談支援事業所Cielコーポレートサイト([リンク](https://ciel-toyama.com))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- X(旧Twitter)：[@henon3537](https://x.com/henon3537)
+- メール：henon3537@gmail.com
