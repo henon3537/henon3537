@@ -1,10 +1,10 @@
 # 👋 My name is hen_on
-Webコーダー・デザイナー
+Webデザイナー・コーダー
 
 ## 🛠️ Skills
+- Figma
 - HTML / CSS(SCSS) / JavaScript
 - WordPress
-- Figma
 
 ## 💻 Projects
 - 株式会社オレンジコーポレートサイト([リンク](https://orange-toyama.com))
