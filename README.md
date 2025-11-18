@@ -11,5 +11,6 @@ Webデザイナー・コーダー
 - 相談支援事業所Cielコーポレートサイト([リンク](https://ciel-toyama.com))
 
 ## 🔗 Links
-- X(旧Twitter)：[@henon3537](https://x.com/henon3537)
+- ポートフォリオ：https://henon3537.github.io/
 - メール：henon3537@gmail.com
+- X(旧Twitter)：[@henon3537](https://x.com/henon3537)
